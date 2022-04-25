@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lostes-Burger
-- 👀 I’m interested in discord bots
+- 👀 I’m interested in discord bots & Minecraft reladed stuff
 - 🌱 I’m currently learning discord js, java
 - 📫 How to reach me Dm Lostes_Burger#0001
 
